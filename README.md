@@ -38,6 +38,18 @@ Public Endpoint (web.core.windows.net)
   ✔ Azure Static Website Hosting
 </p>
 
+## ☁️ Cloud & DevOps Stack
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Service-Blob%20Storage-00A4EF?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosting-Static%20Website-0089D6?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Cloud%20Hosted-green" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Ready-orange" />
+
+</p>
+
 ---
 
 ## ⚙️ Deployment Process
